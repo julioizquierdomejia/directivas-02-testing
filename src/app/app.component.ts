@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'directivas-02-testing';
+  
+  nombre!:string;
+  
 }
